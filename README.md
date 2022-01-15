@@ -1,6 +1,7 @@
 # Java-Management_Hamburger_Company
 
-The second exercise in the object oriented programming cours(java). The exercise involves inheritance, polymorphism, exceptions, abstract classes, classes, interfaces and generics.
+The second exercise in the object oriented programming cours(java). 
+The exercise involves inheritance, polymorphism, exceptions, abstract classes, classes, interfaces and generics.
 
 ## Description
 
@@ -17,10 +18,10 @@ You can insert a new employee-
   * Please enter bonus : 
 3. When you choose F(finish) the program will display the list of all employees in the company.
    For example :
-   Manager: Bill Gates, 1000 + 100 
-   Manager: Elvis , 1 + 1099 
-   Worker : Bisli , 1100
-   Owner : Bamba , 1000 + 100 + 20000
+   * Manager: Bill Gates, 1000 + 100 
+   * Manager: Elvis , 1 + 1099 
+   * Worker : Bisli , 1100
+   * Owner : Bamba , 1000 + 100 + 20000
 4. Log in to the The system of employees by enter the user name and his password.
    
 ### Actions that can be performed on the menu:
